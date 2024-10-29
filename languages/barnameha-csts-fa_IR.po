@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: barnameha-csts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-02 00:34+0330\n"
+"PO-Revision-Date: 2010-09-02 00:38+0330\n"
+"Last-Translator: Mohammad Kafi <parselearn@yahoo.com>\n"
+"Language-Team: Barnameha.ir <parselearn@yahoo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: wp-content\\plugins\\barnameha-csts\\\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: barnameha-csts-admin.php:25
+msgid "Barnameha CSTS"
+msgstr "Barnameha CSTS"
+
+#: barnameha-csts-admin.php:25
+msgid "Barnameha Connection Speed Theme Switcher"
+msgstr "Barnameha Connection Speed Theme Switcher"
+
+#: barnameha-csts-admin.php:32
+msgid "Your options have been saved"
+msgstr "تنظيمات شما ذخيره شدند."
+
+#: barnameha-csts-admin.php:38
+#: barnameha-csts-admin.php:39
+msgid "Now Speed:"
+msgstr "سرعت اكنون:"
+
+#: barnameha-csts-admin.php:44
+msgid "Please Select Theme For Website Viewer With Client Connection Speed"
+msgstr "لطفا قالب مورد نظر خود را با توجه به سرعت كاربر انتخاب نمائيد:"
+
+#: barnameha-csts-admin.php:47
+msgid "Theme For DialUp Connection"
+msgstr "قالب براي اتصال DialUp"
+
+#: barnameha-csts-admin.php:51
+msgid "Theme For High-Speed (DSL,Cable Mode,...) Connection"
+msgstr "قالب براي اتصال پرسرعت ADSL"
+
+#: barnameha-csts-admin.php:58
+msgid "Save Changes"
+msgstr "ذخيره تغيرات"
+
+#: barnameha-csts-admin.php:63
+msgid "Barnameha CSTS By: "
+msgstr "Barnameha CSTS كاري از:"
+
+#: barnameha-csts-admin.php:63
+msgid "Barnameha"
+msgstr "برنامه‌ها"
+
+#: barnameha-csts-admin.php:63
+msgid "Mohammad Kafi (Parsa)"
+msgstr "محمد كافي (پارسا)"
+
+#: barnameha-csts-admin.php:63
+msgid "Support"
+msgstr "حمايت"
+
